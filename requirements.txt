@@ -1,3 +1,13 @@
 flask
 gunicorn
 textblob
+Click
+itsdangerous
+Jinja2
+MarkupSafe
+nltk
+setuptools
+pip
+six
+Werkzeug
+Wheel
