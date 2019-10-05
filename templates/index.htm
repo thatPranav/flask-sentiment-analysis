@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Sentiment Analysis</title>
+</head>
+<body>
+    <form action="/result" method="POST">
+        <input type="text" name="Name">
+        <input type="submit" name="submit">
+        <h2>Polarity: {{ result }}</h2>
+    </form>
+</body>
+</html>
